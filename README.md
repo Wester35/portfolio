@@ -26,7 +26,7 @@
   <img src="sertificates/patterns2.jpg" width="500"/>
 </div>
 ## 📫 Контакты
-- [![Telegram](https://img.shields.io/badge/-Telegram-0088CC?style=flat&logo=telegram&logoColor=white)](https://t.me/wester35)  
-- [![Gmail](https://img.shields.io/badge/-Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:shum0302@gmail.com)
+- Telegram: [@wester35](https://t.me/wester35)
+- Email: shum0302@gmail.com
 
 ---
