@@ -26,7 +26,7 @@
   <img src="sertificates/patterns2.jpg" width="500"/>
 </div>
 ## 📫 Контакты
-- Telegram: [@wester35](ссылка)
+- Telegram: [@wester35]
 - Email: shum0302@gmail.com
 
 ---
