@@ -26,6 +26,7 @@
   <img src="sertificates/patterns2.jpg" width="500"/>
 </div>
 ### Благодарственное письмо от РУТ "МИИ" (институт)
+
 <div id="coding" align="center">
   <img src="sertificates/blagodarstvennoe.jpg" width="400"/>
 </div>
