@@ -34,6 +34,7 @@
 <div id="coding" align="center">
   <img src="sertificates/1t.jpg" width="550"/>
 </div>
+
 ## 📫 Контакты
 - Telegram: [@wester35](https://t.me/wester35)
 - Email: shum0302@gmail.com
